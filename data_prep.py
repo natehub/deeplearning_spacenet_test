@@ -1,3 +1,5 @@
+# this script is meant to be run inside OSGeo4W shell's python
+
 import os
 #convert geojson to shapefile and from shapefile merge all the shapefiles into a single shapefile
 savefile=""
